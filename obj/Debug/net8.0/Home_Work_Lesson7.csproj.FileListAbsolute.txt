@@ -1,0 +1,15 @@
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\bin\Debug\net8.0\Home_Work_Lesson7.exe
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\bin\Debug\net8.0\Home_Work_Lesson7.deps.json
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\bin\Debug\net8.0\Home_Work_Lesson7.runtimeconfig.json
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\bin\Debug\net8.0\Home_Work_Lesson7.dll
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\bin\Debug\net8.0\Home_Work_Lesson7.pdb
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\obj\Debug\net8.0\Home_Work_Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\obj\Debug\net8.0\Home_Work_Lesson7.AssemblyInfoInputs.cache
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\obj\Debug\net8.0\Home_Work_Lesson7.AssemblyInfo.cs
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\obj\Debug\net8.0\Home_Work_Lesson7.csproj.CoreCompileInputs.cache
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\obj\Debug\net8.0\Home_Work_Lesson7.sourcelink.json
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\obj\Debug\net8.0\Home_Work_Lesson7.dll
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\obj\Debug\net8.0\refint\Home_Work_Lesson7.dll
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\obj\Debug\net8.0\Home_Work_Lesson7.pdb
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\obj\Debug\net8.0\Home_Work_Lesson7.genruntimeconfig.cache
+C:\C#\lesson1\sem7_hw1\Home_Work_Lesson7\obj\Debug\net8.0\ref\Home_Work_Lesson7.dll
